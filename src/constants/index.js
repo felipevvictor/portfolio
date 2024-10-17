@@ -51,6 +51,7 @@ export const PROJECTS = [
   },
   {
     title: "Spotify Website",
+    link: "https://felipevvictor.github.io/Spotify-HomePage/",
     image: project3,
     description:
       "WebSite of Spotify",
@@ -58,6 +59,7 @@ export const PROJECTS = [
   },
   {
     title: "EpicGames WebSite",
+    link: "https://angular-clone-epic.vercel.app/",
     image: project4,
     description:
       "Clone of site of games EpicGames",
